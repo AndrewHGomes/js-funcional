@@ -12,3 +12,11 @@ console.log("Fim do programa");
 console.log("");
 
 //----------------------------------------------------
+
+function simpleFunction() {
+  console.log("Uma função simples...");
+}
+
+simpleFunction();
+
+console.log(simpleFunction);
