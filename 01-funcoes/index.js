@@ -19,4 +19,12 @@ function simpleFunction() {
 
 simpleFunction();
 
-console.log(simpleFunction);
+console.log("");
+
+//----------------------------------------------------
+
+function dizerAlgo() {
+  console.log("Algo!");
+}
+
+dizerAlgo();

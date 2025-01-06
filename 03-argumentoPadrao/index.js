@@ -33,7 +33,7 @@ console.log("");
 
 //------------------------------------------
 
-function criarUsuario(nome, email, senha, tipo = "Normal") {
+function criarUsuario(nome, email, senha, tipo = "normal") {
   const usuario = {
     nome: nome,
     email: email,
